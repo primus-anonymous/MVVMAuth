@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Auth</string>
+    <string name="auth">Авторизоваться</string>
+    <string name="phone">Телефон</string>
+    <string name="next_pass">К вводу пароля</string>
+    <string name="next_auth">Авторизоваться</string>
+    <string name="authorized">Авторизация прошла успешно</string>
+    <string name="title_auth">Авторизация</string>
+    <string name="my_app">Приложение</string>
+    <string name="password">Пароль</string>
+</resources>
